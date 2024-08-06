@@ -12,7 +12,7 @@
 
 .x {
   list-style: none;
-  margin-left: 415px;
+  margin-left: 590px;
 
 }
 
@@ -32,7 +32,7 @@
 
 .q {
   list-style: none;
-  margin-left: 1240px;
+  margin-left: 1540px;
   margin-top: -35px;
 
 }
@@ -54,9 +54,9 @@
 }
 
 .p {
-  margin-left: 670px;
+  margin-left: 870px;
   position: absolute;
-  margin-top: 72px;
+  margin-top: 150px;
   font-size: 40px;
   font-weight: bold;
   color: white;
@@ -67,8 +67,8 @@
   width: 725px;
   height: 50px;
   background-color: transparent;
-  margin-top: 650px;
-  margin-left: 385px;
+  margin-top: 750px;
+  margin-left: 600px;
 }
 
 .l {
